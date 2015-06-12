@@ -1,14 +1,17 @@
 package com.fitnesse.fixture;
 
 import com.test.calculator.Calculator;
-
+/**
+ * 
+ * @author 
+ *
+ */
 public class Division {
 
 	private float numerator;
 	private float denominator;
 	private float quotient;
 
-	
 	public void setNumerator(float numerator) {
 		this.numerator = numerator;
 	}
