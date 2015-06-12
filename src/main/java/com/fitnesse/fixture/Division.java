@@ -8,8 +8,6 @@ import com.test.calculator.Calculator;
  */
 public class Division {
 	
-	
-	
 /**
  * 
  */
