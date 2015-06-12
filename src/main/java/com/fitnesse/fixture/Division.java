@@ -10,7 +10,9 @@ public class Division {
 	
 	
 	
-
+/**
+ * 
+ */
 	private float numerator;
 	private float denominator;
 	private float quotient;
