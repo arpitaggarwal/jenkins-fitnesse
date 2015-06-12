@@ -1,11 +1,7 @@
 package com.fitnesse.fixture;
 
 import com.test.calculator.Calculator;
-/**
- * 
- * @author 
- *
- */
+
 public class Division {
 	
 /**
