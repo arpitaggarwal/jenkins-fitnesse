@@ -8,6 +8,7 @@ public class Division {
 	private float denominator;
 	private float quotient;
 
+	
 	public void setNumerator(float numerator) {
 		this.numerator = numerator;
 	}
