@@ -1,11 +1,14 @@
 package com.test.calculator;
 
+
 public class Calculator {
 	private float numerator;
 	private float denominator;
 	private float quotient;
 	private float result;
 
+	
+	
 	public Calculator(float numerator, float denominator) {
 		super();
 		this.numerator = numerator;
