@@ -8,6 +8,7 @@ public class Calculator {
 	private float result;
 	
 	
+	
 	public Calculator(float numerator, float denominator) {
 		super();
 		this.numerator = numerator;
