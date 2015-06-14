@@ -10,6 +10,9 @@ public class Calculator {
 	
 	
 	
+	
+	
+	
 	public Calculator(float numerator, float denominator) {
 		super();
 		this.numerator = numerator;
